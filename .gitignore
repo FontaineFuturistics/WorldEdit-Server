@@ -1,0 +1,4 @@
+# Ignore current backup
+/12-05-21.zip
+# Ignore logs
+/logs
