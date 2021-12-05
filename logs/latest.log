@@ -1,0 +1,57 @@
+[08:08:41] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.0, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038]
+[08:08:41] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17 by Oracle Corporation
+[08:08:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/D:/WorldEdit%20Server/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2318! Service=ModLauncher Env=SERVER
+[08:08:41] [main/INFO]: Found mod file worldedit-mod-7.2.6.jar of type MOD with locator {mods folder locator at D:\WorldEdit Server\mods}
+[08:08:41] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@666b83a4
+[08:08:41] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@666b83a4
+[08:08:41] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@666b83a4
+[08:08:41] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@666b83a4
+[08:08:41] [main/INFO]: Found mod file forge-1.17.1-37.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@666b83a4
+[08:08:42] [main/INFO]: Launching target 'forgeserver' with arguments []
+[08:08:47] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.0, for MC 1.17.1 with MCP 20210706.113038
+[08:08:47] [modloading-worker-0/INFO]: MinecraftForge v37.1.0 Initialized
+[08:08:48] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08:08:49] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.0 Target: null
+[08:08:49] [modloading-worker-0/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4999b0b5]
+[08:08:49] [modloading-worker-0/INFO]: WorldEdit for Forge (version 7.2.6+4b2d1e7) is loaded
+[08:08:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:08:52] [main/WARN]: Assets URL 'union:/D:/WorldEdit%20Server/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2326!/assets/.mcassetsroot' uses unexpected schema
+[08:08:52] [main/WARN]: Assets URL 'union:/D:/WorldEdit%20Server/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2326!/data/.mcassetsroot' uses unexpected schema
+[08:08:53] [main/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[08:08:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:08:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:08:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:08:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:08:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:08:53] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.0-universal.jar, worldedit-mod-7.2.6.jar
+[08:08:54] [Worker-Main-8/INFO]: Loaded 7 recipes
+[08:08:57] [Worker-Main-8/INFO]: Loaded 1137 advancements
+[08:08:57] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[08:08:59] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[08:08:59] [Server thread/INFO]: Loading properties
+[08:08:59] [Server thread/INFO]: Default game type: SURVIVAL
+[08:08:59] [Server thread/INFO]: Generating keypair
+[08:08:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:08:59] [Server thread/INFO]: Using default channel type
+[08:09:00] [Server thread/INFO]: Preparing level "world"
+[08:09:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:09:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[08:09:01] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:09:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:09:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:09:03] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[08:09:03] [Worker-Main-8/INFO]: Preparing spawn area: 32%
+[08:09:04] [Worker-Main-11/INFO]: Preparing spawn area: 76%
+[08:09:05] [Server thread/INFO]: Time elapsed: 4165 ms
+[08:09:05] [Server thread/INFO]: Done (4.607s)! For help, type "help"
+[08:10:54] [Server thread/INFO]: Stopping the server
+[08:10:54] [Server thread/INFO]: Stopping server
+[08:10:54] [Server thread/INFO]: Saving players
+[08:10:54] [Server thread/INFO]: Saving worlds
+[08:10:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Arena Designs]'/minecraft:overworld
+[08:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Arena Designs]'/minecraft:the_nether
+[08:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Arena Designs]'/minecraft:the_end
+[08:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
