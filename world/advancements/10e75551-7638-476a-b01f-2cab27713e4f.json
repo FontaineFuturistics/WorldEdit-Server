@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2021-12-17 22:00:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-12-04 23:42:42 -0500"
@@ -245,6 +251,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-12-18 00:00:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2021-12-04 23:42:42 -0500"
@@ -281,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-12-04 23:01:30 -0500"
@@ -298,6 +322,12 @@
       "has_cut_sandstone": "2021-12-11 14:59:20 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2021-12-18 00:01:01 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
@@ -320,6 +350,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2021-12-11 09:23:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
     },
     "done": true
   },
@@ -443,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2021-12-17 22:40:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2021-12-11 14:59:23 -0500"
@@ -470,6 +512,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2021-12-11 09:23:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2021-12-17 22:00:05 -0500"
     },
     "done": true
   },
@@ -524,6 +572,18 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2021-12-11 09:23:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-12-17 22:00:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-12-17 23:20:27 -0500"
     },
     "done": true
   },
@@ -599,9 +659,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-18 00:01:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-04 23:35:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
     },
     "done": true
   },
@@ -641,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2021-12-11 09:23:37 -0500"
@@ -665,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-12-04 23:12:35 -0500"
@@ -680,6 +764,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2021-12-11 09:23:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-12-17 23:20:27 -0500"
     },
     "done": true
   },
@@ -713,9 +809,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-12-04 23:01:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-12-17 22:00:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
     },
     "done": true
   },
@@ -803,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2021-12-11 09:23:35 -0500"
@@ -812,6 +938,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2021-12-11 13:43:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-12-17 23:40:23 -0500"
     },
     "done": true
   },
@@ -836,6 +968,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-12-11 14:59:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-12-18 00:00:43 -0500"
     },
     "done": true
   },
