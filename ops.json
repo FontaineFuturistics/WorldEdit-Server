@@ -6,12 +6,6 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "b5dc5829-81b6-40f1-b4d9-f72b7267a96b",
-    "name": "Lordmoose213",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "10e75551-7638-476a-b01f-2cab27713e4f",
     "name": "agent_1667",
     "level": 4,
@@ -24,14 +18,14 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "58de661a-d9be-441b-bd19-2b22b2e67872",
-    "name": "BiDisiease",
+    "uuid": "92162966-7b30-4264-b253-0f3cc3e2d732",
+    "name": "FightingPrawn8",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "92162966-7b30-4264-b253-0f3cc3e2d732",
-    "name": "FightingPrawn8",
+    "uuid": "58de661a-d9be-441b-bd19-2b22b2e67872",
+    "name": "BiDisiease",
     "level": 4,
     "bypassesPlayerLimit": false
   }
