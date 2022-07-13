@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2021-12-17 21:43:31 -0500"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-12-17 21:56:36 -0500"
@@ -98,6 +110,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-12-17 22:18:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
     },
     "done": true
   },
@@ -149,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2021-12-17 19:51:58 -0500"
@@ -188,6 +212,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-12-17 21:15:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
     },
     "done": true
   },
@@ -234,6 +264,12 @@
       "golden_carrot": "2021-12-17 21:11:24 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
@@ -298,6 +334,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-12-17 19:26:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
     },
     "done": true
   },
@@ -442,6 +484,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-12-17 22:18:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
     },
     "done": true
   },
@@ -682,6 +730,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-17 19:07:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-03-19 15:18:34 -0400"
     },
     "done": true
   },
